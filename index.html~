@@ -236,9 +236,15 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="work_title  wow fadeInUp animated">
-                        <h1>Latest Works</h1>
+                        <h1></h1>
                         <img src="images/shape.png" alt="">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna <br> aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+                        <p>CRUNCHERS was established at July, 2013. </br>
+			   <a href="http://prtimes.jp/main/html/rd/p/000000001.000009427.html">Tonight PAnda Release Note. </a>. </br>
+			   <a href="http://ishiidaichi.tumblr.com/post/97201554978">映画興行収入シミューレーターについての解説と補足. </a>. </br>
+			   <a href="http://jcs2014.com/ja/release/newsletter/detail/seminar_23_A1.html">映画の収益性を予測する - データサイエンスが刷新するコンテンツビジネス. </a>. </br>
+			   <a href="http://www.hollywoodreporter.com/news/box-office-prediction-system-unveiled-743262">Japanese Startup Unveils Box-Office Prediction System at Tokyo Content Market. </a>. </br>
+			   <a href="http://animeanime.jp/article/2014/10/26/20630.html">「公開前に、映画の興行収入は明らかになる」TIFFCOMビジネスセミナーで驚きの発表</a>
+			</p>
                     </div>
                 </div>
             </div>
@@ -401,7 +407,7 @@
                     <div class="social">
                         <h2>Follow Us on Here</h2>
                         <ul class="icon_list">
-                            <li><a href="http://www.facebook.com/abdullah.noman99"target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/crunchersinc"target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="http://www.twitter.com/absconderm"target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li><a href=""><i class="fa fa-google-plus"></i></a></li>
                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
