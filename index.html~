@@ -73,7 +73,7 @@
 	                  <ul class="nav navbar-nav navbar-right">
 	                    <li><a href="#HOME">Home</a></li>
 	                    <li><a href="#ABOUT">About</a></li>
-	                    <li><a href="#TEAM">Services</a></li>
+	                    <li><a href="#TEAM">Team</a></li>
 	                    <li><a href="#WORK">Work</a></li>
 	                    <li><a href="#CONTACT">Contact</a></li>
 	                  </ul>
@@ -164,7 +164,7 @@
         </div>
     </section>
 
-    <section class="services" id="SERVICE">
+    <section class="team" id="TEAM">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 text-center">
