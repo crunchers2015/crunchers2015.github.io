@@ -235,7 +235,7 @@
     <section class="work_area" id="WORK">
         <div class="container">
             <div class="row">
-                <div class="col-md-12 text-center">
+                <div class="col-md-9 text-center">
                     <div class="work_title  wow fadeInUp animated">
                         <h1>Latest Works</h1>
                         <img src="images/shape.png" alt="">
@@ -412,16 +412,16 @@
                 </div>
             </div>
         </div>
-        <div class="container">
+        <!---div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="copyright_text   wow fadeInUp animated">
-                        <p>&copy; brandy 2015.All Right Reserved By <a href="http://www.themeforest.net/user/thecodecafe"target="_blank">Code Cafe Team</a></p>
+                        <p>&copy; CRUNCHERS. All Right Reserved By <a href="http://www.themeforest.net/user/thecodecafe"target="_blank">Code Cafe Team</a></p>
                         <p>Made with love for creative people.</p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div!--->
     </div>
 </footer>
 
