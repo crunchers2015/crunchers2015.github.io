@@ -201,22 +201,22 @@
 	                            <div class="col-md-4">
 	                                <div class="single_count">
 	                                    <i class="icon-toolbox"></i>
-	                                    <h3>300</h3>
-	                                    <p>Project Undergone</p>
+	                                    <h3>100+</h3>
+	                                    <p>Analyzed Japanese Movies</p>
 	                                </div>
 	                            </div>
 	                            <div class="col-md-4">
 	                                <div class="single_count">
 	                                    <i class="icon-clock"></i>
-	                                    <h3>1700+</h3>
-	                                    <p>Hours Worked</p>
+	                                    <h3>200+</h3>
+	                                    <p>Analyzed USA Movies</p>
 	                                </div>                            
 	                            </div>
 	                            <div class="col-md-4">
 	                                <div class="single_count">
 	                                    <i class="icon-trophy"></i>
-	                                    <h3>37</h3>
-	                                    <p>Awards Won</p>
+	                                    <h3>5</h3>
+	                                    <p>Collaborative Companies</p>
 	                                </div>                            
 	                            </div>
 	                        </div>
@@ -406,10 +406,10 @@
                         <h2>Follow Us on Here</h2>
                         <ul class="icon_list">
                             <li><a href="https://www.facebook.com/crunchersinc"target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="http://www.twitter.com/absconderm"target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="https://twitter.com/crunchers_info"target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <!---li><a href=""><i class="fa fa-google-plus"></i></a></li>
                             <li><a href=""><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="http://www.dribbble.com/abdullahnoman"target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                            <li><a href="http://www.dribbble.com/abdullahnoman"target="_blank"><i class="fa fa-dribbble"></i></a></li!--->
                         </ul>
                     </div>
                 </div>
