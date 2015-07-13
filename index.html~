@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
-                    <p class="about_us_p">我々のミッションは，これまで非現実的だと思われていたコンテンツマーケットに於けるone-to-oneマーケティングを大規模計算機とビッグデータを用いたシミュレーションモデルの反復計算とモデル再構築によって達成することです．全人口に於ける，共通の趣味・嗜好を保有する部分集団の割合とその行動パターンをクリエイターやマーケター，統計科学者といったチームで解析し，現象を再現し得るシミュレーションモデルを構築することにってコンピュータ内部に仮想市場を生成し，将来的に作成・配布されるコンテンツの制作補助，収益予測，効率的なPR/広告手段、具体的なターゲットのペルソナを推定します．</p>
+                    <p class="about_us_p">我々のミッションは，これまで不可能だと思われていたコンテンツマーケットに於けるone-to-oneマーケティングを，大規模計算機とビッグデータを用いた統計的シミュレーションによって達成することであり，閉鎖的な日本のコンテンツ産業を世界に発信するための強力なツールを提供することです．共通の趣味・嗜好を保有する部分集団の割合とその行動パターンを，クリエイターやマーケター，統計科学者といったチームで解析し，現象を再現し得るシミュレーションモデルを構築することでコンピュータ内部に仮想市場を生成し，将来的に作成・配布されるコンテンツの制作補助，収益予測，効率的なPR/広告手段、具体的なターゲットの消費者像を推定，革新的なマーケティングサービスを提供します．</p>
                 </div>
                 <div class="col-md-4  wow fadeInRight animated">
                     <p class="about_us_p">English ver. under translation.</p>
@@ -177,15 +177,14 @@ NPO法人を設立し映像製作を開始後、キリスト教の強い影響�
                   </div>
 		</div>
 	      </div>
-	      <p> </p>
               <div class="col-md-4 text-center">
                 <div class="single_service wow fadeInUp" data-wow-delay="1.5s">
                   <i class="icon-gears"></i>
                   <h2>Ichiro Kawashima</h2>
                   <p>Co-founder / COO</p>
+		  <p>Writing...</p>
 		</div>
 	      </div>
-	      <p> </p>
               <div class="col-md-4 text-center">
                 <div class="single_service wow fadeInUp" data-wow-delay="2s">
                   <div class="single_image">
