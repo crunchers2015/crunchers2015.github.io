@@ -164,7 +164,7 @@
     </section>
 
     <section class="team" id="TEAM">
-      <center>
+      <div align="center">
         <div class="container">
             <div class="row">
               <div class="col-md-3 text-center">
@@ -199,7 +199,7 @@ NPO法人を設立し映像製作を開始後、キリスト教の強い影響�
 	      </div>
             </div>            
 	</div>
-      </center>
+      </div>
     </section>
 
     <div class="fun_facts">
