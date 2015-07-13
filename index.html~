@@ -367,7 +367,7 @@ NPO法人を設立し映像製作を開始後、キリスト教の強い影響�
                         <p>4-2-35-305, Roppongi, Minato-ku, 1060032, JAPAN.</p>
                     </div>
                 </div>
-                <div class="col-md-9  wow fadeInRight animated">
+                <!---div class="col-md-9  wow fadeInRight animated">
                     <form class="contact-form" action="">
                         <div class="row">
                             <div class="col-md-6">
@@ -381,7 +381,7 @@ NPO法人を設立し映像製作を開始後、キリスト教の強い影響�
                             </div>
                         </div>
                     </form>
-                </div>
+                </div!--->
             </div>
         </div>
         <div class="container">
