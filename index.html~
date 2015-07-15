@@ -154,51 +154,53 @@
                     </div>
                 </div>
                 <div class="col-md-8  wow fadeInRight animated">
-                    <p class="about_us_p">我々のミッションは，これまで不可能だと思われていたコンテンツマーケットに於けるone-to-oneマーケティングを，大規模計算機とビッグデータを用いた統計的シミュレーションによって達成することであり，閉鎖的な日本のコンテンツ産業を世界に発信するための強力なツールを提供することです．共通の趣味・嗜好を保有する部分集団の割合とその行動パターンを，クリエイターやマーケター，統計科学者といったチームで解析し，現象を再現し得るシミュレーションモデルを構築することでコンピュータ内部に仮想市場を生成し，将来的に作成・配布されるコンテンツの制作補助，収益予測，効率的なPR/広告手段、具体的なターゲットの消費者像を推定，革新的なマーケティングサービスを提供します．</p>
+                    <p class="about_us_p">我々のミッションは，これまで不可能だと思われていたコンテンツマーケットに於けるone-to-oneマーケティングを，大規模計算機とビッグデータを用いた統計的シミュレーションによって達成することであり，閉鎖的な日本のコンテンツ産業を世界に発信するための強力なツールを提供することです．共通の趣味・嗜好を保有する部分集団の割合とその行動パターンを，クリエイターやマーケター，統計科学者といったチームで解析し，現象を再現し得るシミュレーションモデルを構築することでコンピュータ内部に仮想市場を生成し，将来的に作成・配布されるコンテンツの制作補助，収益予測，効率的なPR/広告手段、具体的なターゲットの消費者像を推定，革新的なマーケティングサービスを提供します．<br></p>
                 </div>
             </div>
         </div>
+	<p><br></p>
     </section>
 
     <div class="fun_facts">
     	<section class="header parallax home-parallax page" id="fun_facts" style="background-position: 50% -150px;">
-	        <div class="section_overlay">
-	            <div class="container">
-	                <div class="row">
-	                    <div class="col-md-6 wow fadeInLeft animated">
-	                        <div class="row">
-	                            <div class="col-md-4">
-	                                <div class="single_count">
-	                                    <i class="icon-toolbox"></i>
-	                                    <h3>100+</h3>
-	                                    <p>Analyzed Japanese Movies</p>
-	                                </div>
-	                            </div>
-	                            <div class="col-md-4">
-	                                <div class="single_count">
-	                                    <i class="icon-clock"></i>
-	                                    <h3>200+</h3>
-	                                    <p>Analyzed USA Movies</p>
-	                                </div>                            
-	                            </div>
-	                            <div class="col-md-4">
-	                                <div class="single_count">
-	                                    <i class="icon-trophy"></i>
-	                                    <h3>5</h3>
-	                                    <p>Collaborative Companies</p>
-	                                </div>                            
-	                            </div>
-	                        </div>
-	                    </div>
-	                    <div class="col-md-5 col-md-offset-1 wow fadeInRight animated">
-	                        <div class="imac">
-	                            <img src="images/imac.png" alt="">
-	                        </div>
-	                    </div>
-	                </div>
-	            </div>            
+	  <div class="section_overlay">
+	    <div class="container">
+	      <div class="row">
+	        <div class="col-md-6 wow fadeInLeft animated">
+	          <div class="row">
+	            <div class="col-md-4">
+	              <div class="single_count">
+	                <i class="icon-toolbox"></i>
+	                <h3>100+</h3>
+	                <p>Analyzed Japanese Movies</p>
+	              </div>
+	            </div>
+	            <div class="col-md-4">
+	              <div class="single_count">
+	                <i class="icon-clock"></i>
+	                <h3>200+</h3>
+	                <p>Analyzed USA Movies</p>
+	              </div>                            
+	            </div>
+	            <div class="col-md-4">
+	              <div class="single_count">
+	                <i class="icon-trophy"></i>
+	                <h3>5</h3>
+	                <p>Collaborative Companies</p>
+	              </div>                            
+	            </div>
+	          </div>
 	        </div>
-	    </section>    
+	        <div class="col-md-5 col-md-offset-1 wow fadeInRight animated">
+	          <div class="imac">
+	            <img src="images/imac.png" alt="">
+	          </div>
+	        </div>
+	      </div>
+	    </div>            
+	  </div>
+	</section>    
+	<p><br></p>
     </div>
 
     <section class="team" id="TEAM">
