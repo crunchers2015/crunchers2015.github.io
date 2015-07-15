@@ -2,13 +2,15 @@ body{
 	font-family: 'Dosis', sans-serif;
 }
 p{
-	word-wrap: break-word
 	font-family: 'Montserrat', sans-serif;
 }
 a{
-	word-wrap: break-word
 	font-family: 'Dosis', sans-serif;
 	text-decoration: none;
+}
+ae{
+	word-wrap: break-word
+	font-family: 'Arial', sans-serif;
 }
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Dosis', sans-serif;
