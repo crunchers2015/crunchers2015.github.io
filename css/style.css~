@@ -2,9 +2,11 @@ body{
 	font-family: 'Dosis', sans-serif;
 }
 p{
+	word-break: break-all;
 	font-family: 'Montserrat', sans-serif;
 }
 a{
+	word-break: break-all;
 	font-family: 'Dosis', sans-serif;
 	text-decoration: none;
 }
