@@ -215,7 +215,7 @@ position: relative;
 margin-top: -40px;	
 }
 .imac img{
-	width: 80%;
+	width: 100%;
 }
 
 @media(max-width: 767px){
@@ -229,8 +229,7 @@ margin-top: -40px;
 	transition: all 1s;
 }
 .single_image img{
-	width: 100%;
-
+	width: 80%;
 }
 .single_image:hover div.image_overlay{
 	opacity: 1;

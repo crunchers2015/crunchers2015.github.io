@@ -215,7 +215,7 @@ position: relative;
 margin-top: -40px;	
 }
 .imac img{
-	width: 100%;
+	width: 80%;
 }
 
 @media(max-width: 767px){
