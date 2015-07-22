@@ -223,6 +223,17 @@ margin-top: -40px;
 		margin-top: 20px
 	}
 }
+.single_image_full{
+	margin-right: 3px;
+	position: relative;
+	transition: all 1s;
+}
+.single_image_full img{
+	width: 100%;
+}
+.single_image_full:hover div.image_overlay{
+	opacity: 1;
+}
 .single_image{
 	margin-right: 3px;
 	position: relative;
